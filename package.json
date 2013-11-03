@@ -1,0 +1,14 @@
+{
+	"name": "geekzy-movies",
+	"description": "GeekZy's Movie Collection",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"markdown": "0.5.0",
+		"tmdbv3": "*",
+		"request": "2.27.x",
+		"optimist": "0.6.0",
+        "shelljs": "0.2.5",
+		"cheerio": "*"
+	}
+}
